@@ -6,53 +6,54 @@ document.querySelector('.tecla_pom').onclick = tocaSomPom;
 
 
 function tocaSomClap(){
-    document.querySelector('#som_tecla_Clap').play();  
+    document.querySelector('#som_tecla_clap').play();  
 }
 
-document.querySelector('.tecla_Clap').onclick = tocaSomClap;
+document.querySelector('.tecla_clap').onclick = tocaSomClap;
 
-function tocaSomClap(){
-    document.querySelector('#som_tecla_Clap').play();  
+function tocaSomtim(){
+    document.querySelector('#som_tecla_tim').play();  
 }
 
-document.querySelector('.tecla_Clap').onclick = tocaSomClap;
+document.querySelector('.tecla_tim').onclick = tocaSomTim;
 
 
-function tocaSomClap(){
-    document.querySelector('#som_tecla_Clap').play();  
+function tocaSomPuff(){
+    document.querySelector('#som_tecla_puff').play();  
 }
 
-document.querySelector('.tecla_Clap').onclick = tocaSomClap;
+document.querySelector('.tecla_puff').onclick = tocaSomPuff;
 
-function tocaSomClap(){
-    document.querySelector('#som_tecla_Clap').play();  
+function tocaSomSplash(){
+    document.querySelector('#som_tecla_splash').play();  
 }
 
-document.querySelector('.tecla_Clap').onclick = tocaSomClap;
+document.querySelector('.tecla_splash').onclick = tocaSomSplash
 
-function tocaSomClap(){
-    document.querySelector('#som_tecla_Clap').play();  
+
+function tocaSomToim(){
+    document.querySelector('#som_tecla_toim').play();  
 }
 
-document.querySelector('.tecla_Clap').onclick = tocaSomClap;
+document.querySelector('.tecla_toim').onclick = tocaSomToim;
 
-function tocaSomClap(){
-    document.querySelector('#som_tecla_Clap').play();  
+function tocaSomPsh(){
+    document.querySelector('#som_tecla_psh').play();  
 }
 
-document.querySelector('.tecla_Clap').onclick = tocaSomClap;
+document.querySelector('.tecla_psh').onclick = tocaSomPsh;
 
-function tocaSomClap(){
-    document.querySelector('#som_tecla_Clap').play();  
+function tocaSomTic(){
+    document.querySelector('#som_tecla_tic').play();  
 }
 
-document.querySelector('.tecla_Clap').onclick = tocaSomClap;
+document.querySelector('.tecla_tic').onclick = tocaSomTic;
 
-function tocaSomClap(){
-    document.querySelector('#som_tecla_Clap').play();  
+function tocaSomTom(){
+    document.querySelector('#som_tecla_tom').play();  
 }
 
-document.querySelector('.tecla_Clap').onclick = tocaSomClap;
+document.querySelector('.tecla_tom').onclick = tocaSomTom;
 
 
 
