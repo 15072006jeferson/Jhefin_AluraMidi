@@ -8,5 +8,8 @@ const ListaDeTeclas = document.querySelectorAll('.tecla');
 ListaDeTeclas[0].onclick = tocaSomPom;
 
 
+While()
+
+
 
 
