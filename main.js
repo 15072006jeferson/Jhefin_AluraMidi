@@ -10,6 +10,7 @@ let contador = 0;
 while (contador < ListaDeTeclas.length){
     ListaDeTeclas[contador].onclick = function () {
         tocaSom('#som_tecla_pom');
+        }
 
     contador = contador + 1;
 
